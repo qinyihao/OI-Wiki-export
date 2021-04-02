@@ -1,6 +1,7 @@
 # OI-Wiki-export
 
 将 OI-Wiki 导出为印刷质量的 pdf 的工具。
+wiki已经在`Release`部分列出，可以直接下载。
 
 ## 导出
 
